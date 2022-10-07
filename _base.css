@@ -1,0 +1,164 @@
+.card {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaHei",
+    "WenQuanYi Micro Hei", sans-serif;
+  font-size: 20px;
+  line-height: 1.2em;
+  text-align: center;
+  color: #1f1f1f;
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+a {
+  color: rgb(101, 205, 181);
+}
+
+a:hover {
+  color: rgb(62, 193, 162);
+}
+
+.card.night_mode {
+  background-color: #333;
+  color: #eee;
+}
+
+.back {
+  text-align: left;
+  font-size: 16px;
+  color: #444;
+}
+
+.night_mode .back {
+  color: #bbb;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  width: 100%;
+  background: #e1e1e1;
+}
+
+#source {
+  display: block;
+  margin-top: 24px;
+  font-size: 12px;
+  text-align: right;
+}
+
+.tag {
+  display: inline-block;
+  font-size: 15px;
+  margin: 0 10px 15px 0;
+  background: #f5f2f0;
+  border-radius: 5px;
+  color: #666;
+  padding: 5px 10px;
+}
+
+.night_mode .tag {
+  background: #222;
+  color: #bbb;
+}
+
+.cloze {
+  font-weight: bold;
+  color: blue;
+}
+.nightMode .cloze {
+  color: lightblue;
+}
+
+code {
+  margin: 0;
+  padding: 2px 5px;
+}
+
+pre > code {
+  display: block;
+}
+
+code[class],
+pre {
+  color: black;
+  background: none;
+  text-shadow: 0 1px white;
+  font-family: "Cartograph CF", "JetBrain Mono", Consolas, Monaco, "Andale Mono",
+    "Ubuntu Mono", monospace;
+  font-size: 1em;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.5;
+
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+
+pre::-moz-selection,
+pre ::-moz-selection,
+code[class]::-moz-selection,
+code[class] ::-moz-selection {
+  text-shadow: none;
+  background: #b3d4fc;
+}
+
+pre::selection,
+pre ::selection,
+code[class]::selection,
+code[class] ::selection {
+  text-shadow: none;
+  background: #b3d4fc;
+}
+
+pre {
+  padding: 1em;
+  margin: 0.5em 0;
+  overflow: auto;
+}
+
+:not(pre) > code[class],
+pre {
+  background: #f5f2f0;
+}
+
+:not(pre) > code[class] {
+  padding: 0.1em;
+  border-radius: 0.3em;
+  white-space: normal;
+}
+
+.night_mode code[class],
+.night_mode pre {
+  color: #ccc;
+  text-shadow: none;
+}
+
+.night_mode pre::-moz-selection,
+.night_mode pre ::-moz-selection,
+.night_mode code[class]::-moz-selection,
+.night_mode code[class] ::-moz-selection {
+  background: default;
+}
+
+.night_mode pre::selection,
+.night_mode pre ::selection,
+.night_mode code[class]::selection,
+.night_mode code[class] ::selection {
+  background: default;
+}
+
+.night_mode :not(pre) > code[class],
+.night_mode pre {
+  background: #2d2d2d;
+}
