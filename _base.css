@@ -19,6 +19,13 @@ a:hover {
   color: rgb(62, 193, 162);
 }
 
+blockquote {
+  border-left: 2px solid rgb(101, 205, 181);
+  padding-left: 25px;
+  line-height: 32px;
+  margin: 0 auto 30px auto;
+}
+
 .card.night_mode {
   background-color: #333;
   color: #eee;
