@@ -87,13 +87,16 @@ pre > code {
   display: block;
 }
 
+pre, code {
+  font-family: "Cartograph CF", "JetBrain Mono", Consolas, Monaco, "Andale Mono",
+    "Ubuntu Mono", monospace;
+}
+
 code[class],
 pre {
   color: black;
   background: none;
   text-shadow: 0 1px white;
-  font-family: "Cartograph CF", "JetBrain Mono", Consolas, Monaco, "Andale Mono",
-    "Ubuntu Mono", monospace;
   font-size: 1em;
   text-align: left;
   white-space: pre;
