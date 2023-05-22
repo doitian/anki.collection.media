@@ -78,6 +78,32 @@ hr {
   color: lightblue;
 }
 
+input#typeans {
+  text-align: center;
+  display: inline-block;
+  --field-padding: 12px;
+  border: none;
+  -webkit-appearance: none;
+  -ms-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: #f2f2f2;
+  padding: var(--field-padding);
+  outline: none;
+  border-radius: 0;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  background:
+    linear-gradient(90deg, #65CDB5, #65CDB5) center bottom/0 0.15em no-repeat,
+    linear-gradient(90deg, #ccc, #ccc) left bottom/100% 0.15em no-repeat,
+    linear-gradient(90deg, #fafafa, #fafafa) left bottom/100% no-repeat;
+  transition: background-size 0.3s ease;
+}
+
+input#typeans:focus {
+  background-size: 100% 0.15em, 100% 0.1em, 100%;
+}
+
 code {
   margin: 0;
   padding: 2px 5px;
