@@ -1,0 +1,473 @@
+.cobuild .bold {
+  font-weight: bold
+}
+.cobuild .calibre {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-left: 5pt;
+  margin-right: 5pt;
+  margin-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: justify
+}
+.cobuild .calibre_ {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 50px;
+  text-align: left;
+  text-indent: 0
+}
+.cobuild .calibre_1 {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 15px;
+  text-align: left;
+  text-indent: 0
+}
+.cobuild .calibre_2 {
+  display: block;
+  height: 10px
+}
+.cobuild .calibre_3 {
+  display: block;
+  margin-top: 3px;
+  text-align: center
+}
+.cobuild .calibre_4 {
+  display: block;
+  margin-top: 1em
+}
+.cobuild .calibre_5 {
+  display: block;
+  margin-top: 1em;
+  text-align: center
+}
+.cobuild .calibre_6 {
+  display: block;
+  height: 1em
+}
+.cobuild .calibre_7 {
+  display: block;
+  margin-top: 2em
+}
+.cobuild .calibre_8 {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: left;
+  text-indent: 0
+}
+.cobuild .calibre_9 {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: left;
+  text-indent: 0
+}
+.cobuild .calibre_10 {
+  display: block;
+  font-size: 1.33333em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 2em;
+  page-break-before: always
+}
+.cobuild .calibre_11 {
+  color: #01498D;
+  font-size: 0.91667em;
+  line-height: 1.2
+}
+.cobuild .calibre_12 {
+  display: block;
+  text-indent: 0
+}
+.cobuild .calibre_13 {
+  display: block;
+  margin-top: 2em;
+  text-indent: 0
+}
+.cobuild .calibre_14 {
+  color: #01498D
+}
+.cobuild .calibre_15 {
+  display: block;
+  height: 2em
+}
+.cobuild .calibre_16 {
+  display: block;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  page-break-before: always;
+  text-align: left
+}
+.cobuild .calibre_17 {
+  display: block;
+  margin-top: 1em;
+  text-align: left;
+  text-indent: 0
+}
+.cobuild .calibre_18 {
+  display: block;
+  font-size: 1.375em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  page-break-before: always;
+  text-align: left;
+  text-indent: 0
+}
+.cobuild .calibre_19 {
+  color: #01498D;
+  font-size: 0.90909em;
+  line-height: 1.2
+}
+.cobuild .calibre_20 {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 2em;
+  margin-right: 0;
+  margin-top: 0;
+  text-indent: 0
+}
+.cobuild .calibre_21 {
+  display: block;
+  margin-top: 1em;
+  text-align: left
+}
+.cobuild .calibre_22 {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 2em;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: left;
+  text-indent: -2em
+}
+.cobuild .calibre_23 {
+  display: block;
+  font-size: 1.125em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: left;
+  text-indent: 0
+}
+.cobuild .calibre_24 {
+  color: #01498D;
+  font-size: 1em;
+  line-height: 1.2
+}
+.cobuild .calibre_25 {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 1em;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: left;
+  text-indent: -1em
+}
+.cobuild .calibre_26 {
+  color: #0038A8;
+  line-height: 1.2
+}
+.cobuild .calibre_27 {
+  color: #0038A8;
+  font-size: 1.25em;
+  line-height: 1.2
+}
+.cobuild .calibre_28 {
+  color: #0038A8;
+  font-size: 1.125em;
+  line-height: 1.2
+}
+.cobuild .calibre_29 {
+  display: block;
+  margin-top: 5px
+}
+.cobuild .calibre_30 {
+  color: #0038A8
+}
+.cobuild .calibre_31 {
+  background-color: #D9DBEF;
+  border-collapse: separate;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-indent: 0
+}
+.cobuild .calibre_32 {
+  background-color: #42A632;
+  display: table-cell;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 1px;
+  text-align: inherit;
+  vertical-align: inherit
+}
+.cobuild .calibre_33 {
+  background-color: #2E8AE6;
+  display: table-cell;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 1px;
+  text-align: inherit;
+  vertical-align: inherit
+}
+.cobuild .calibre_34 {
+  background-color: #6B59B3;
+  display: table-cell;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 1px;
+  text-align: inherit;
+  vertical-align: inherit
+}
+.cobuild .calibre_35 {
+  background-color: #F29D61;
+  display: table-cell;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 1px;
+  text-align: inherit;
+  vertical-align: inherit
+}
+.cobuild .calibre_36 {
+  color: black
+}
+.cobuild .calibre_37 {
+  background-color: #D9DBEF;
+  display: table-cell;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 1px;
+  text-align: inherit;
+  vertical-align: inherit
+}
+.cobuild .calibre_38 {
+  background-color: #DADEEF;
+  display: block;
+  margin-top: 1em
+}
+.cobuild .calibre_39 {
+  background-color: #DADEEF;
+  display: table-cell;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 1px;
+  text-align: inherit;
+  vertical-align: top
+}
+.cobuild .calibre_40 {
+  display: block;
+  text-align: left
+}
+.cobuild .calibre_41 {
+  display: block;
+  text-align: center
+}
+.cobuild .calibre_42 {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 2em;
+  text-align: center;
+  text-indent: 0
+}
+.cobuild .calibre_43 {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-indent: 0
+}
+.cobuild .calibre_44 {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  text-indent: 0
+}
+.cobuild .calibre1 {
+  font-size: 1.125em;
+  line-height: 1.2
+}
+.cobuild .calibre2 {
+  display: block;
+  list-style-type: decimal;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em
+}
+.cobuild .calibre3 {
+  display: list-item
+}
+.cobuild .calibre4 {
+  display: block
+}
+.cobuild .calibre5 {
+  height: auto;
+  width: auto
+}
+.cobuild .calibre6 {
+  display: block;
+  list-style-type: disc;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em
+}
+.cobuild .calibre7 {
+  font-style: italic
+}
+.cobuild .calibre8 {
+  font-size: 1em;
+  line-height: 1.2
+}
+.cobuild .calibre9 {
+  font-size: 0.75em
+}
+.cobuild .calibre10 {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 2em;
+  margin-right: 0;
+  margin-top: 0
+}
+.cobuild .calibre11 {
+  height: 30px;
+  width: 35px
+}
+.cobuild .calibre12 {
+  border-collapse: separate;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-indent: 0
+}
+.cobuild .calibre13 {
+  display: table-row;
+  vertical-align: middle
+}
+.cobuild .calibre14 {
+  display: table-cell;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 1px;
+  text-align: inherit;
+  vertical-align: top
+}
+.cobuild .calibre15 {
+  display: table-cell;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 1px;
+  text-align: inherit;
+  vertical-align: inherit
+}
+.cobuild .calibre16 {
+  border-bottom-color: currentColor;
+  border-bottom-style: inset;
+  border-bottom-width: 1px;
+  border-left-color: currentColor;
+  border-left-style: inset;
+  border-left-width: 1px;
+  border-right-color: currentColor;
+  border-right-style: inset;
+  border-right-width: 1px;
+  border-top-color: currentColor;
+  border-top-style: inset;
+  border-top-width: 1px;
+  color: gray;
+  display: block;
+  height: 2px;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0.5em
+}
+.cobuild .calibre17 {
+  font-size: 0.75em;
+  line-height: 1.2;
+  vertical-align: super
+}
+.cobuild .calibre18 {
+  display: block;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.67em;
+  page-break-before: always
+}
+.cobuild .calibre19 {
+  display: table-row;
+  vertical-align: inherit
+}
+.cobuild .calibre20 {
+  font-weight: bold;
+  line-height: 1.2
+}
+.cobuild .calibre21 {
+  font-style: italic;
+  line-height: 1.2
+}
+.cobuild .calibre22 {
+  text-decoration: line-through
+}
+.cobuild .calibre23 {
+  font-size: 0.75em;
+  line-height: 1.2;
+  vertical-align: sub
+}
+.cobuild .mbp_pagebreak {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  page-break-after: always
+}
+.cobuild .underline {
+  text-decoration: underline
+}
