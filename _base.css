@@ -55,6 +55,10 @@ hr {
   text-align: right;
 }
 
+.right {
+  text-align: right;
+}
+
 .tag {
   display: inline-block;
   font-size: 15px;
