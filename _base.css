@@ -58,6 +58,19 @@ hr {
 .right {
   text-align: right;
 }
+.left {
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+p.indent {
+  text-indent: 1em;
+}
+.bl_indent {
+  text-indent: 1em;
+  margin: 0 1em;
+}
 
 .tag {
   display: inline-block;
