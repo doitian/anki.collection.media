@@ -11,6 +11,10 @@
   padding: 20px;
 }
 
+dt, dd {
+  text-align: left;
+}
+
 a {
   color: rgb(101, 205, 181);
 }
@@ -126,7 +130,7 @@ input#typeans:focus {
   padding: 0 2px;
 }
 
-.context-separator:last-of-type {
+.context-separator.last {
   display: block;
   visibility: hidden;
   font-size: 0;
