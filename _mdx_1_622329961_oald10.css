@@ -710,9 +710,15 @@ html #ID622329961child eudic_compact_remove {
   border: 0.0625rem solid #27a1b0;
   border-radius: 100rem;
   padding: 0.1875rem 1rem;
-  -webkit-transition: background-color 100ms linear, color 100ms linear;
-  -o-transition: background-color 100ms linear, color 100ms linear;
-  transition: background-color 100ms linear, color 100ms linear;
+  -webkit-transition:
+    background-color 100ms linear,
+    color 100ms linear;
+  -o-transition:
+    background-color 100ms linear,
+    color 100ms linear;
+  transition:
+    background-color 100ms linear,
+    color 100ms linear;
 }
 
 #ID622329961child jumplink:hover,
@@ -1959,4 +1965,339 @@ html #ID622329961child eudic_compact_remove {
 }
 #ID622329961child .xref_to_full_entry {
   display: none;
+}
+
+.night_mode #ID622329961child .entry {
+  color: rgba(204, 204, 204, 0.8) !important;
+}
+
+.night_mode #ID622329961child p.definition-title {
+  color: rgba(102, 102, 102, 0.8) !important;
+}
+
+.night_mode #ID622329961child h1.headword,
+.night_mode #ID622329961child h2.h,
+.night_mode #ID622329961child h1.headword .st {
+  color: rgba(229, 202, 158, 0.8) !important;
+}
+
+.night_mode #ID622329961child .symbols a span.opal_symbol {
+  color: rgba(0, 0, 0, 0.8) !important;
+  background: rgba(173, 150, 124, 1) !important;
+}
+
+.night_mode #ID622329961child .symbols a span.opal_symbol:hover {
+  background: rgba(192, 175, 155, 1) !important;
+}
+
+.night_mode #ID622329961child phon,
+.night_mode #ID622329961child .phon {
+  color: rgba(204, 204, 204, 0.8) !important;
+}
+
+.night_mode #ID622329961child .variants {
+  color: rgba(144, 144, 144, 0.8) !important;
+}
+
+.night_mode #ID622329961child .variants[type="alt"] {
+  color: rgba(204, 204, 204, 0.8) !important;
+}
+
+.night_mode #ID622329961child .grammar {
+  color: rgba(144, 144, 144, 0.8) !important;
+}
+
+.night_mode #ID622329961child .labels {
+  color: rgba(144, 144, 144, 0.8) !important;
+}
+
+.night_mode #ID622329961child .sensebody .labels {
+  color: rgba(144, 144, 144, 0.8) !important;
+}
+
+.night_mode #ID622329961child cl,
+.night_mode #ID622329961child .cl {
+  color: rgba(204, 204, 204, 0.8) !important;
+}
+
+.night_mode #ID622329961child .ndv {
+  color: rgba(255, 121, 241, 0.8) !important;
+}
+
+.night_mode #ID622329961child un {
+  background: rgba(2, 12, 15, 1) !important;
+}
+
+.night_mode #ID622329961child .eb,
+.night_mode #ID622329961child v-g,
+.night_mode #ID622329961child .v-g,
+.night_mode #ID622329961child .inflected_form {
+  color: rgba(229, 202, 158, 0.8) !important;
+}
+
+.night_mode #ID622329961child .cf {
+  color: rgba(204, 204, 204, 0.8) !important;
+}
+
+.night_mode #ID622329961child ul.examples > li::before {
+  color: rgba(144, 144, 144, 0.8) !important;
+}
+
+.night_mode #ID622329961child .xref,
+.night_mode #ID622329961child topic,
+.night_mode #ID622329961child .topic,
+.night_mode #ID622329961child .xh {
+  color: rgba(255, 150, 75, 0.8) !important;
+}
+
+.night_mode #ID622329961child .xref_to_full_entry a {
+  color: rgba(255, 150, 75, 0.8) !important;
+}
+
+.night_mode #ID622329961child xh {
+  color: rgba(255, 150, 75, 0.8) !important;
+}
+
+.night_mode #ID622329961child details,
+.night_mode #ID622329961child div.collapse {
+  background: rgba(3, 23, 29, 1) !important;
+}
+
+.night_mode #ID622329961child summary:hover,
+.night_mode #ID622329961child .box_title:hover {
+  background: rgba(5, 33, 40, 1) !important;
+}
+
+.night_mode #ID622329961child details > summary > span,
+.night_mode #ID622329961child div.collapse .box_title > span {
+  color: rgba(204, 204, 204, 0.8) !important;
+}
+
+.night_mode #ID622329961child .details_contents,
+.night_mode #ID622329961child div.collapse .is-active .body {
+  background: rgba(2, 12, 15, 1) !important;
+}
+
+.night_mode #ID622329961child div.collapse .is-active ul.examples {
+  background: rgba(2, 12, 15, 1) !important;
+}
+
+.night_mode #ID622329961child details[open],
+.night_mode #ID622329961child div.collapse {
+  background: rgba(5, 33, 40, 1) !important;
+}
+
+.night_mode #ID622329961child jumplink:hover,
+.night_mode #ID622329961child .jumplink:hover {
+  color: rgba(0, 0, 0, 0.8) !important;
+  background: rgba(216, 94, 79, 1) !important;
+}
+
+.night_mode #ID622329961child jumplink[name="Phrasal Verbs"]:hover,
+.night_mode #ID622329961child .jumplink[name="Phrasal Verbs"]:hover {
+  background: rgba(131, 200, 132, 1) !important;
+}
+
+.night_mode #ID622329961child h2.idioms_heading,
+.night_mode #ID622329961child .idioms_heading {
+  color: rgba(216, 94, 79, 0.8) !important;
+}
+
+.night_mode #ID622329961child ul.inline li::after {
+  color: rgba(144, 144, 144, 0.8) !important;
+}
+
+.night_mode #ID622329961child .verb_form {
+  color: rgba(229, 202, 158, 0.8) !important;
+}
+
+.night_mode #ID622329961child .vf_prefix {
+  color: rgba(204, 204, 204, 0.8) !important;
+}
+
+.night_mode #ID622329961child .collocs_list li::before {
+  color: rgba(144, 144, 144, 0.8) !important;
+}
+
+.night_mode #ID622329961child .topic_cefr {
+  color: rgba(0, 0, 0, 0.8) !important;
+  background: rgba(153, 153, 153, 1) !important;
+}
+
+.night_mode #ID622329961child .symbols a.opal_symbol {
+  color: rgba(0, 0, 0, 0.8) !important;
+  background: rgba(173, 150, 124, 1) !important;
+}
+
+.night_mode #ID622329961child .symbols a.opal_symbol:hover {
+  background: rgba(186, 172, 157, 1) !important;
+}
+
+.night_mode #ID622329961child .deflist dd ul.examples li::before {
+  color: rgba(144, 144, 144, 0.8) !important;
+}
+
+.night_mode #ID622329961child details ul.bullet li::before {
+  color: rgba(144, 144, 144, 0.8) !important;
+}
+
+.night_mode #ID622329961child details ul.examples > li::before {
+  color: rgba(144, 144, 144, 0.8) !important;
+}
+
+.night_mode #ID622329961child span[unbox="mlt"] ul.inline li.li::after,
+.night_mode #ID622329961child span[unbox="wordfinder"] ul.bullet li.li::after {
+  color: rgba(144, 144, 144, 0.8) !important;
+}
+
+.night_mode #ID622329961child details un {
+  background: rgba(0, 5, 5, 1) !important;
+}
+
+.night_mode #ID622329961child .phrasal_verb_links h3,
+.night_mode #ID622329961child .phrasal_verb_links .unbox {
+  color: rgba(131, 200, 132, 0.8) !important;
+}
+
+.night_mode #ID622329961child phon_label {
+  color: rgba(144, 144, 144, 0.8) !important;
+}
+
+.night_mode #ID622329961child blockquote,
+.night_mode #ID622329961child .blockquote {
+  background: rgba(3, 23, 29, 1) !important;
+}
+
+.night_mode #ID622329961child blockquote footer,
+.night_mode #ID622329961child .blockquote .footer {
+  color: rgba(204, 204, 204, 0.8) !important;
+}
+
+.night_mode #ID622329961child .inflections {
+  color: rgba(144, 144, 144, 0.8) !important;
+}
+
+.night_mode #ID622329961child #ox-enlarge a.topic {
+  background: rgba(63, 63, 63, 1) !important;
+}
+
+.night_mode #ID622329961child #ox-enlarge a.topic:hover {
+  color: rgba(0, 0, 0, 0.8) !important;
+  background: rgba(223, 77, 85, 1) !important;
+}
+
+.night_mode #ID622329961child .list-col .selected {
+  color: rgba(215, 215, 215, 0.8) !important;
+  background: rgba(34, 34, 34, 1) !important;
+}
+
+.night_mode #ID622329961child .ui-grad dt {
+  color: rgba(204, 204, 204, 0.8) !important;
+}
+
+.night_mode #ID622329961child .ui-grad dt.hide:hover {
+  background: rgba(43, 43, 43, 1) !important;
+}
+
+.night_mode #ID622329961child .grey-grad,
+.night_mode #ID622329961child .idsym-g,
+.night_mode #ID622329961child .ui-grad dt,
+.night_mode #ID622329961child .z_idsym {
+  background: rgba(51, 51, 51, 1) !important;
+}
+
+.night_mode #ID622329961child .grey-grad,
+.night_mode #ID622329961child .ui-grad dt,
+.night_mode #ID622329961child .pron_row .btn,
+.night_mode #ID622329961child .pron_row input[type="submit"],
+.night_mode #ID622329961child .topic-mobile ul ul li:first-child,
+.night_mode #ID622329961child .wl-nav {
+  background: rgba(19, 19, 19, 1) !important;
+}
+
+.night_mode #ID622329961child .see-more {
+  color: rgba(204, 204, 204, 0.8) !important;
+}
+
+.night_mode #ID622329961child .see-more:hover {
+  color: rgba(255, 255, 255, 0.8) !important;
+  background: rgba(25, 26, 26, 1) !important;
+}
+
+.night_mode #ID622329961child .un {
+  background: rgba(7, 25, 36, 1) !important;
+}
+
+.night_mode #ID622329961child .sn-g .oup_icons {
+  color: rgba(97, 97, 97, 0.8) !important;
+}
+
+.night_mode #ID622329961child .sn-g .oup_icons:hover {
+  color: rgba(204, 204, 204, 0.8) !important;
+}
+
+.night_mode #ID622329961child .sn-g .oup_icons:active {
+  color: rgba(204, 204, 204, 0.8) !important;
+}
+
+.night_mode #ID622329961child .wordlist-popup {
+  background: transparent !important;
+}
+
+.night_mode #ID622329961child .wordlist-popup:hover {
+  color: rgba(186, 136, 64, 0.8) !important;
+}
+
+.night_mode #ID622329961child .wordlist-popup .header {
+  color: rgba(204, 204, 204, 0.8) !important;
+  background: rgba(20, 10, 0, 1) !important;
+}
+
+.night_mode #ID622329961child .wordlist-popup li .wordlistname {
+  color: rgba(255, 181, 83, 0.8) !important;
+}
+
+.night_mode #ID622329961child .wordlist-popup li .wordlistname:hover {
+  background: rgba(29, 19, 8, 1) !important;
+}
+
+.night_mode #ID622329961child .wordlist-popup .oup_icons.add {
+  color: rgba(0, 0, 0, 0.8) !important;
+  background: rgba(184, 137, 81, 1) !important;
+}
+
+.night_mode #ID622329961child .wordlist-popup .footer {
+  color: rgba(204, 204, 204, 0.8) !important;
+  background: rgba(19, 10, 0, 1) !important;
+}
+
+.night_mode #ID622329961child .wordlist-popup .wordlist-submit {
+  color: rgba(0, 0, 0, 0.8) !important;
+  background: rgba(184, 137, 81, 1) !important;
+}
+
+.night_mode #ID622329961child .wordlist-submit:hover {
+  background: rgba(255, 222, 184, 1) !important;
+}
+
+.night_mode #ID622329961child .wordlist-popup .footer input[type="text"] {
+  background: transparent !important;
+}
+
+.night_mode #ID622329961child .wordlist-popup .error {
+  color: rgba(86, 221, 210, 0.8) !important;
+  background: rgba(0, 17, 6, 1) !important;
+}
+
+.night_mode #ID622329961child .wordlist-popup .info {
+  color: rgba(213, 179, 200, 0.8) !important;
+  background: rgba(60, 26, 45, 1) !important;
+}
+
+.night_mode #ID622329961child .popup-close {
+  color: rgba(186, 136, 64, 0.8) !important;
+}
+
+.night_mode #ID622329961child .plus-btn:hover {
+  background: rgba(255, 222, 184, 1) !important;
 }
