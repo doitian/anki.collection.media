@@ -1,8 +1,20 @@
 .card {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
-    "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaHei",
-    "WenQuanYi Micro Hei", sans-serif;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    "Roboto",
+    "Oxygen",
+    "Ubuntu",
+    "Cantarell",
+    "Fira Sans",
+    "Droid Sans",
+    "Helvetica Neue",
+    "Hiragino Sans GB",
+    "Microsoft YaHei",
+    "WenQuanYi Micro Hei",
+    sans-serif;
   font-size: 20px;
   line-height: 1.2em;
   text-align: center;
@@ -11,7 +23,8 @@
   padding: 20px;
 }
 
-dt, dd {
+dt,
+dd {
   text-align: left;
 }
 
@@ -80,8 +93,10 @@ p.indent {
   margin: 0 1em;
 }
 
+.tags {
+  line-height: 1.5em;
+}
 .tag {
-  display: inline-block;
   font-size: 15px;
   background: #f5f2f0;
   border-radius: 5px;
@@ -121,14 +136,17 @@ input#typeans {
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
   background:
-    linear-gradient(90deg, #65CDB5, #65CDB5) center bottom/0 0.15em no-repeat,
+    linear-gradient(90deg, #65cdb5, #65cdb5) center bottom/0 0.15em no-repeat,
     linear-gradient(90deg, #ccc, #ccc) left bottom/100% 0.15em no-repeat,
     linear-gradient(90deg, #fafafa, #fafafa) left bottom/100% no-repeat;
   transition: background-size 0.3s ease;
 }
 
 input#typeans:focus {
-  background-size: 100% 0.15em, 100% 0.1em, 100%;
+  background-size:
+    100% 0.15em,
+    100% 0.1em,
+    100%;
 }
 
 .context-separator {
@@ -152,7 +170,8 @@ pre > code {
   display: block;
 }
 
-pre, code {
+pre,
+code {
   font-family: "Cartograph CF", "JetBrain Mono", Consolas, Monaco, "Andale Mono",
     "Ubuntu Mono", monospace;
 }
